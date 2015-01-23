@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Evented I/O for V8 javascript. [![Build Status](https://secure.travis-ci.org/joyent/node.png)](http://travis-ci.org/joyent/node)
 ===
 
@@ -50,3 +51,7 @@ Resources for Newcomers
   - [community](https://github.com/joyent/node/wiki/Community)
   - [contributing](https://github.com/joyent/node/wiki/Contributing)
   - [big list of all the helpful wiki pages](https://github.com/joyent/node/wiki/_pages)
+=======
+# node-0.8.9
+node-0.8.9
+>>>>>>> 90c235d6a95f186b56ee44a2b5c18d2c82f915c0
